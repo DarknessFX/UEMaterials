@@ -14,6 +14,10 @@
 
 # UEMaterials - Collection of Unreal Engine Materials
 
+<img src="https://repository-images.githubusercontent.com/591985423/443552cf-2107-4ac9-8c98-f365901057d1" width="640px" /> <br/>
+
+Direct link to download materials I shared in my twitter <a href="https://twitter.com/DrkFX" target="_blank">@DrkFX</a>. <br/>
+
 ## About
 
 ## Credits
