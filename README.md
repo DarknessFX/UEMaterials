@@ -12,7 +12,7 @@
 
            DarknessFX @ https://dfx.lv | Twitter: @DrkFX
 
-# UEMaterials - Collection of Unreal Engine Materials
+# UEMaterials - DarknessFX Collection of Unreal Engine Materials
 
 <img src="https://repository-images.githubusercontent.com/591985423/443552cf-2107-4ac9-8c98-f365901057d1" width="640px" /> <br/>
 
