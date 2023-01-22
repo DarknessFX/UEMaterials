@@ -20,6 +20,8 @@ Direct link to download materials I shared in my twitter <a href="https://twitte
 
 ## About
 
+This is an easier way to share materials source code than screenshots and to keep a complete collection accessible to everyone.
+
 ## Credits
 
 celestialmaze <a href="https://twitter.com/cmzw_" target="_blank">@cmzw_</a> <br/>
