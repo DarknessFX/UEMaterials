@@ -22,6 +22,26 @@ Direct link to download materials I shared in my twitter <a href="https://twitte
 
 This is an easier way to share materials source code than screenshots on twitter and to keep a complete collection accessible to everyone.
 
+## Additional information
+
+**- Where do I copy the .uassets files ?**
+
+I suggest to copy to your Project\Content folder (ex: C:\MyUEGame\Content\).
+
+**- How do I use this files ?**
+
+After you copy the .uassets to your Project\Content folder open you Content Browser, 
+all this new materials and material function will show up. If not, just close and open 
+your project again to refresh the engine.
+
+**- I'm getting an error that MaterialFunction don't exist ?**
+
+Make sure you copied the material function too (you can follow the twiter link to see a screenshot of the 
+original material as reference) AND copy the .uassets files to your Project\Content folder first. 
+
+Later inside the engine you can move the materials to your own custom folder structure like 
+"\Content\Materials" and "\Content\Materials\MaterialsFunctions".
+
 ## Credits
 
 celestialmaze <a href="https://twitter.com/cmzw_" target="_blank">@cmzw_</a> <br/>
