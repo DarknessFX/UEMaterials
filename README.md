@@ -36,7 +36,7 @@ your project again to refresh the engine.
 
 **- I'm getting an error that MaterialFunction don't exist ?**
 
-Make sure you copied the material function too (you can follow the twiter link to see a screenshot of the 
+Make sure you copied the material function too (you can follow the twitter link to see a screenshot of the 
 original material as reference) AND copy the .uassets files to your Project\Content folder first. 
 
 Later inside the engine you can move the materials to your own custom folder structure like 
