@@ -18,6 +18,7 @@
 
 Direct link to download materials I shared in my twitter <a href="https://twitter.com/DrkFX" target="_blank">@DrkFX</a>. <br/>
 
+**Note:** Materials from July/2023 forward are using UE 5.2.1 .<br/>
 I'm using Unreal Engine 5.1, this materials maybe not open in earlier Unreal Engine versions.
 
 ## About
