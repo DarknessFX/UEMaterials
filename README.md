@@ -50,6 +50,7 @@ Later inside the engine you can move the materials to your own custom folder str
 celestialmaze <a href="https://twitter.com/cmzw_" target="_blank">@cmzw_</a> <br/>
 YukiYa <a href="https://twitter.com/ko_yuki_lo" target="_blank">@ko_yuki_lo</a> <br/>
 くろれきし <a href="https://twitter.com/endwar1338" target="_blank">@endwar1338</a> <br/>
+Xor <a href="https://twitter.com/XorDev" target="_blank">@XorDev</a> <br/>
 Unreal Engine from Epic Games - https://www.unrealengine.com/ <br/>
 
 ## License
