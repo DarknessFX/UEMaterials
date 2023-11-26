@@ -18,8 +18,7 @@
 
 Direct link to download materials I shared in my twitter <a href="https://twitter.com/DrkFX" target="_blank">@DrkFX</a>. <br/>
 
-**Note:** Materials from July/2023 forward are using UE 5.2.1 .<br/>
-I'm using Unreal Engine 5.1, this materials maybe not open in earlier Unreal Engine versions.
+I'm using Unreal Engine 5.3.2, this materials maybe not open in earlier Unreal Engine versions.
 
 ## About
 
@@ -44,6 +43,11 @@ original material as reference) AND copy the .uassets files to your Project\Cont
 
 Later inside the engine you can move the materials to your own custom folder structure like 
 "\Content\Materials" and "\Content\Materials\MaterialsFunctions".
+
+## Versions
+- Materials from Jan/2023 forward are using UE 5.1 .<br/>
+- Materials from Jul/2023 forward are using UE 5.2.1 .<br/>
+- Materials from Nov/2023 forward are using UE 5.3.2 .<br/>
 
 ## Credits
 
