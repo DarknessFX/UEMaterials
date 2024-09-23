@@ -48,6 +48,7 @@ Later inside the engine you can move the materials to your own custom folder str
 - Materials from Jan/2023 forward are using UE 5.1 .<br/>
 - Materials from Jul/2023 forward are using UE 5.2.1 .<br/>
 - Materials from Nov/2023 forward are using UE 5.3.2 .<br/>
+- Materials from Sep/2024 forward are using UE 5.4.4.<br/>
 
 ## Credits
 
