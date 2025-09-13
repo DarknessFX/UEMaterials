@@ -1,9 +1,9 @@
-# <a href="..">UEMaterials</a> - M_Bandlimited2
-<img src="M_Marbles_00.jpeg" width="64px" /><br/>
+# <a href="..">UEMaterials</a> - M_Marbles
+<img src="M_Marbles_00.png" width="64px" /><br/>
 
 <a href="../M_Marbles.uasset">M_Marbles</a><br/>
 
-<img src="M_Marbles_00.jpeg" width="640px" /><br/>
+<img src="M_Marbles.png" width="640px" /><br/>
 
 Credits:<br/>
 --<br/>
