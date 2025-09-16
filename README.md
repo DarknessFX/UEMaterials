@@ -36,6 +36,7 @@ Click on the material thumbnail to access the source code details.
 <a href="Sourcecode/M_CheapFire.md"><img src="Sourcecode/M_CheapFire_00.jpeg" width="64px" /></a>
 <a href="Sourcecode/M_CheckerPattern.md"><img src="Sourcecode/M_CheckerPattern_00.jpeg" width="64px" /></a>
 <a href="Sourcecode/M_Christmas2024.md"><img src="Sourcecode/M_Christmas2024_00.jpeg" width="64px" /></a>
+<a href="Sourcecode/M_CircleGlow.md"><img src="Sourcecode/M_CircleGlow_00.png" width="64px" /></a>
 <a href="Sourcecode/M_Circuits.md"><img src="Sourcecode/M_Circuits_00.jpeg" width="64px" /></a>
 <a href="Sourcecode/M_CircularWave.md"><img src="Sourcecode/M_CircularWave_00.jpeg" width="64px" /></a>
 <a href="Sourcecode/M_Desert.md"><img src="Sourcecode/M_Desert_00.jpeg" width="64px" /></a>
@@ -164,4 +165,5 @@ Unreal Engine from Epic Games - https://www.unrealengine.com/ <br/>
 
 @MIT - Free for everyone and any use. <br/><br/>
 DarknessFX @ <a href="https://dfx.lv" target="_blank">https://dfx.lv</a> | Twitter: <a href="https://twitter.com/DrkFX" target="_blank">@DrkFX</a> <br/>https://github.com/DarknessFX/UEMaterials
+
 
