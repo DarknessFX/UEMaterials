@@ -5,6 +5,9 @@
 
 <img src="M_SimpleFlame_01.png" width="640px" /><br/>
 
+Note:<br/>
+This material use multiple Material Functions: [sMin](https://github.com/DarknessFX/UEMaterials/blob/main/sMin.uasset) , [MF_BlenderRefract](https://github.com/DarknessFX/UEMaterials/blob/main/MF_BlenderRefract.uasset) , [MF_NoiseMinkowski](https://github.com/DarknessFX/UEMaterials/blob/main/MF_NoiseMinkowski.uasset) .
+
 Post:<br/>
 [https://x.com/DrkFX/status/1969122746530472205](https://x.com/DrkFX/status/1969122746530472205)<br/><br/>
 
