@@ -67,6 +67,7 @@ Click on the material thumbnail to access the source code details.
 <a href="Sourcecode/M_MeshOverlay_Basic.md"><img src="Sourcecode/M_MeshOverlay_Basic_00.jpeg" width="64px" /></a>
 <a href="Sourcecode/M_MeshOverlay_FresnelRefraction.md"><img src="Sourcecode/M_MeshOverlay_FresnelRefraction_00.jpeg" width="64px" /></a>
 <a href="Sourcecode/M_ModMod.md"><img src="Sourcecode/M_ModMod_00.jpeg" width="64px" /></a>
+<a href="Sourcecode/M_Moire.md"><img src="Sourcecode/M_Moire_00.png" width="64px" /></a>
 <a href="Sourcecode/M_Motion_Scale_02.md"><img src="Sourcecode/M_Motion_Scale_02_00.jpeg" width="64px" /></a>
 <a href="Sourcecode/M_NeonSpades.md"><img src="Sourcecode/M_NeonSpades_00.jpeg" width="64px" /></a>
 <a href="Sourcecode/M_Noise2DSin.md"><img src="Sourcecode/M_Noise2DSin_00.jpeg" width="64px" /></a>
@@ -166,6 +167,7 @@ Unreal Engine from Epic Games - https://www.unrealengine.com/ <br/>
 
 @MIT - Free for everyone and any use. <br/><br/>
 DarknessFX @ <a href="https://dfx.lv" target="_blank">https://dfx.lv</a> | Twitter: <a href="https://twitter.com/DrkFX" target="_blank">@DrkFX</a> <br/>https://github.com/DarknessFX/UEMaterials
+
 
 
 
